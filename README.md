@@ -36,9 +36,6 @@ Clone and install locally (recommended with uv):
 git clone https://github.com/yourname/bcrppull
 cd bcrppull
 
-# install local bcrpy (dev mode)
-uv pip install -e ../bcrpy
-
 # install dependencies
 uv sync
 ````
